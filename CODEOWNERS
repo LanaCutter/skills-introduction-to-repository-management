@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @LanaCutter
+/src/backend/database.py      @LanaCutter
+/src/backend/routers/auth.py  @LanaCutter
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @LanaCutter
